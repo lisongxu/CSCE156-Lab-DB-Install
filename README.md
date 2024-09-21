@@ -84,23 +84,15 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 
 ## 3. Activities 
 
-Type and execute the following MySQL statements.
+1. Type a statement: `use`, a space, your MySQL username, and a semicolon. For example, because my MySQL username is `lxu3`, I type the statement `use lxu3;` as shown in the blue box of the following screenshot.
 
-Note that after typing each statement, please click the icon highlighted in the red box to execute the statement. Also note that if MySQL Workbench does not find any error in a statement, there is a blue dot before the statement.
+2. After typing the above statement, click the flash icon in the red box of the screenshot to execute the statement.
+
+3. If the statement executes successfully, you should see something similar to the output in the green box of the screenshot.
 <p align="center">
-<img src="images/Workbench-5.png" alt="execute" width="50%"/>
+<img src="images/Workbench-7.png" alt="output" width="70%"/>
 </p>  
 
-If MySQL Workbench finds an error in a statement, there is a red x before the statement. For example, line 3 in the following screenshot has a typo `iff`.
-<p align="center">
-<img src="images/Workbench-6.png" alt="invalid" width="50%"/>
-</p>  
-
-Replace `lxu3` in the following statement with your MySQL username. 
-
-```sql
-use lxu3;
-```
 
 ## 4. Answer the lab questions on Canvas
 
