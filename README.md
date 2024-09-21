@@ -16,7 +16,7 @@ Following the lab, you should be able to:
 
 -   install the MySQL software
   
--   connect to a database using your MySQL username and password
+-   connect to a MySQL server using your MySQL username and password
 
 ### Peer Programming Pair-Up
 
@@ -32,45 +32,49 @@ MySQL Workbench at the following URL.
 https://www.mysql.com/products/workbench/
     
 
-## 2. Connect to MySQL server on Linux server
+## 2. Connect to a MySQL server on a Linux server
 
 We connect to the MySQL server running on a Linux server of the School of Computing.
 
-1. Create a new MySQL connection by clicking the plus sign 
+1. Find the email about your MySQL username and password, which was sent to you about several weeks ago.
+
+2. Run the MySQL Workbench that you just installed
+
+3. Create a new MySQL connection by clicking the plus sign 
 <p align="center">
 <img src="images/Workbench-1.png" alt="create a new connection" width="70%"/>
 </p>  
 
-2. Type the hostname ***`nuros.unl.edu`***, your MySQL username that you should have received in an email (e.g., my MySQL username is lxu3), and a connection name (e.g., SOC). We use the default port number 3306. Then click the "OK" button.
+4. Type the hostname ***`nuros.unl.edu`***, your MySQL username (for example, my MySQL username is lxu3), and a connection name (for example, SOC). We use the default port number 3306. Then click the "OK" button.
 <p align="center">
 <img src="images/Workbench-2.png" alt="hostname" width="70%"/>
 </p>  
 
-3. Click to open the created MySQL connection 
+5. Click to open the MySQL connection that we just created 
 <p align="center">
 <img src="images/Workbench-3.png" alt="open a new connection" width="70%"/>
 </p>  
 
-4. Type your MySQL password that you should have received in an email. 
+6. Type your MySQL password 
 <p align="center">
 <img src="images/Workbench-4.png" alt="password" width="70%"/>
 </p>  
 
 
-5. If you see a "Connection Warning" window, select the "Continue Anyway" button  
+7. If you see a "Connection Warning" window, just click the "Continue Anyway" button  
 <p align="center">
 <img src="images/Workbench-5.png" alt="warning" width="70%"/>
 </p>  
 
   But if you see a "Cannot Connect to Database Server" window, then one of the following information is wrong
-    * hostname entered at step 2 must be `nuros.unl.edu`
-    * username entered at step 2 must be the username in the email sent to you
+    * hostname must be `nuros.unl.edu`
+    * username must be the username in the email sent to you
     * password must be the password in the email sent to you
 <p align="center">
 <img src="images/Workbench-5error.png" alt="error" width="70%"/>
 </p>  
 
-6. Then you are successfully connected to the MySQL server. 
+8. Then you are successfully connected to the MySQL server. 
 <p align="center">
 <img src="images/Workbench-6.png" alt="connect" width="70%"/>
 </p>  
