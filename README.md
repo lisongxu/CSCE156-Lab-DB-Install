@@ -84,16 +84,17 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 
 ## 3. Activities 
 
-1. Type a statement: `use`, a space, your MySQL username, and a semicolon. For example, because my MySQL username is `lxu3`, I type the statement `use lxu3;` as shown in the blue box of the following screenshot.
+1. Type a use statement: `use`, a space, your MySQL username, and a semicolon. For example, because my MySQL username is `lxu3`, I type the statement `use lxu3;` as shown in the blue box of the following screenshot.
 
 2. After typing the above statement, click the flash icon in the red box of the screenshot to execute the statement.
 
-3. If the statement executes successfully, you should see something similar to the output in the green box of the screenshot.
+3. If the use statement executes successfully, you should see something similar to the output in the green box of the screenshot.
 <p align="center">
-<img src="images/Workbench-7.png" alt="output" width="70%"/>
+<img src="images/Workbench-7.png" alt="output" width="95%"/>
 </p>  
 
 
-## 4. Answer the lab questions on Canvas
+## 4. Submission on Canvas
 
-* You do not need to submit any code for this lab. Instead please answer the lab questions on Canvas. 
+* Please take a screenshot of the output of the use statement, and upload it to Canvas.
+* You do not need to submit any code to GradeScope for this lab. 
