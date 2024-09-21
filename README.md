@@ -36,7 +36,7 @@ https://www.mysql.com/products/workbench/
 
 We connect to the MySQL server running on a Linux server of the School of Computing.
 
-1. Find the email about your MySQL username and password, which was sent to you about several weeks ago.
+1. Find the email about your MySQL username and password, which was sent to you several weeks ago.
 
 2. Run the MySQL Workbench that you just installed
 
