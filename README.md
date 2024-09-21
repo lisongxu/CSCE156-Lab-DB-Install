@@ -67,9 +67,9 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 </p>  
 
   But if you see a "Cannot Connect to Database Server" window, then one of the following information is wrong
-    * hostname must be `nuros.unl.edu`
-    * username must be the username in the email sent to you
-    * password must be the password in the email sent to you
+* hostname must be `nuros.unl.edu`
+* username must be the username in the email sent to you
+* password must be the password in the email sent to you
 <p align="center">
 <img src="images/Workbench-5error.png" alt="error" width="70%"/>
 </p>  
