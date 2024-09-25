@@ -96,5 +96,5 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 
 ## 4. Submission on Canvas
 
-* Please take a screenshot of the output of the use statement, and upload it to Canvas.
+* Please take a screenshot of the output of the use statement, and upload it to Canvas. ***The screenshot must clearly show the use statement with your MySQL username.*** 
 * You do not need to submit any code to GradeScope for this lab. 
