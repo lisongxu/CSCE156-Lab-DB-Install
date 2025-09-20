@@ -1,9 +1,9 @@
 # Computer Science II
-## Lab 5.0 - MySQL IDE
+## Lab 5 - MySQL IDE
 
 Install the MySQL IDE and test your MySQL username and password.
 
-This is a lab used in Computer Science II (CSCE 156) for Fall 2024 
+This is a lab used in Computer Science II (CSCE 156) for Fall 2025 
 in the [School of Computing](https://computing.unl.edu) 
 at the [University of Nebraska-Lincoln](https://www.unl.edu).
 
