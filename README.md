@@ -29,6 +29,8 @@ MySQL Workbench is a free Integrated Development Environment (IDE) for MySQL.  Y
 MySQL Workbench at the following URL.
 
 https://www.mysql.com/products/workbench/
+
+If the download link does not work, you can try different Wi-Fi networks or download using your cellular network.
     
 
 ## 2. Connect to a MySQL server on a Linux server
