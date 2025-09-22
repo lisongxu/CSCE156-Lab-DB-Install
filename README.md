@@ -20,8 +20,7 @@ Following the lab, you should be able to:
 
 ### Peer Programming Pair-Up
 
-At the start of each lab, you may find a team member by yourself or may be randomly paired up with another student by
-a lab instructor.  One of you will be designated the *driver* and the other the *navigator*. Each week you should try to alternate: if you were a driver last week, be a navigator next, etc. If you prefer to work on this lab by yourself, that is fine too. 
+At the start of each lab, you may find a team member by yourself.  One of you will be designated the *driver* and the other the *navigator*. Each week you should try to alternate: if you were a driver last week, be a navigator next, etc. If you prefer to work on this lab alone, that is fine too. 
 
 
 ## 1. Install MySQL Workbench
