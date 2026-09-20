@@ -67,10 +67,11 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 <img src="images/Workbench-5.png" alt="warning" width="70%"/>
 </p>  
 
-  But if you see a "Cannot Connect to Database Server" window, then one of the following information is wrong
-* hostname must be `nuros.unl.edu`
-* username must be the username in the email sent to you
-* password must be the password in the email sent to you
+  But if you see a "Cannot Connect to Database Server" window, then check the following:
+* If you use an off-campus network, please download, install, and run the [UNL VPN Client](https://nusupport.nebraska.edu/TDClient/33/Portal/KB/Article/93/VPN-Client-Installation-Guide) before attempting to reconnect to the MySQL server.
+* Hostname must be `nuros.unl.edu`
+* Username must be the username in the email sent to you
+* Password must be the password in the email sent to you
 <p align="center">
 <img src="images/Workbench-5error.png" alt="error" width="70%"/>
 </p>  
