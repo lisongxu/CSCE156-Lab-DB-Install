@@ -3,7 +3,7 @@
 
 Install the MySQL IDE and test your MySQL username and password.
 
-This is a lab used in Computer Science II (CSCE 156) for Fall 2025 
+This is a lab used in Computer Science II (CSCE 156) for Fall 2026 
 in the [School of Computing](https://computing.unl.edu) 
 at the [University of Nebraska-Lincoln](https://www.unl.edu).
 
@@ -98,4 +98,4 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 ## 4. Submission on Canvas
 
 * Please take a screenshot of the output of the use statement, and upload it to Canvas. ***The screenshot must clearly show the use statement with your MySQL username.*** 
-* You do not need to submit any code to GradeScope for this lab. 
+* You do not need to submit any code to Gradescope for this lab. 
