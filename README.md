@@ -46,15 +46,7 @@ We connect to the MySQL server running on a Linux server of the School of Comput
 <img src="images/Workbench-1.png" alt="create a new connection" width="70%"/>
 </p>  
 
-4. Set **Connection Method** to **Standard (TCP/IP)**. Enter the following information:
-
-   * **Connection Name:** any descriptive name, such as `SOC`
-   * **Hostname:** `nuros.unl.edu`
-   * **Port:** `3306`
-   * **Username:** your MySQL username from the email. For example, my MySQL username is lxu3
-
-   Leave **Default Schema** blank, and then click **OK**.
-
+4. Type the hostname ***`nuros.unl.edu`***, your MySQL username (for example, my MySQL username is lxu3), and a connection name (for example, SOC). We use the default port number 3306. Then click the "OK" button.
 <p align="center">
 <img src="images/Workbench-2.png" alt="hostname" width="70%"/>
 </p>  
