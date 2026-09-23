@@ -30,6 +30,8 @@ MySQL Workbench at the following URL.
 
 https://www.mysql.com/products/workbench/
 
+***Please download the archived version 8.0 instead of the latest version that does not work with our database server.***
+
 If the download link does not work, you can try a different Wi-Fi network or download using your cellular network.
     
 
